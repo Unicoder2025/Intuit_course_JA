@@ -14,5 +14,5 @@ Nutzen Sie für die Aufgaben einen Laptop statt Ihr Handy
 
 
 
-Basale Information findet ihr unter [Seminar Intuit] (https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/24270307330?11)
+Basale Information findet ihr unter  
 
